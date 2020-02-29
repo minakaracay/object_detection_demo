@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\minak\Desktop\data\images\test\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>21</ymin>
+			<xmax>241</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
